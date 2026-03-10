@@ -1,4 +1,4 @@
-# Retail Rocket — E-commerce Funnel Analysis
+# Retail Rocket E-commerce Funnel Analysis
 
 **Tools:** SQL · Databricks SQL Editor · Looker Studio  
 **Dataset:** Retail Rocket E-commerce Events — 2.7M behavioral events, 1.4M visitors  
